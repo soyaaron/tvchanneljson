@@ -33,7 +33,7 @@
     "id": 4,
     "title": "Telefuturo",
     "canal": "23",
-    "imgURL": "http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelefuturo23.png?alt=media&token=c8ea3a31-29ad-4c8e-9a8e-24a7fa830843",
     "streamURL": "https://ss8.domint.net:3118/tf_str/futu/chunklist_w814674442.m3u8"
   },
 
@@ -55,21 +55,21 @@
     "id": 12,
     "title": "Teleuniverso",
     "canal": "29",
-    "imgURL": "https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fteleuniverso29.png?alt=media&token=bfdf9dc6-f8d9-4cef-93e2-72901b5c40bf",
     "streamURL": "https://cdn4.hostlagarto.com:8081/teleuniverso/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 13,
     "title": "Sport Vision",
     "canal": "35",
-    "imgURL": "",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fsportsvision35.png?alt=media&token=d12cd03e-b5f1-4232-8f68-94d1093bd646",
     "streamURL": "https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/chunklist_w1686255597.m3u8"
   },
   {
     "id": 13,
     "title": "Teleradio América (TRA)",
     "canal": "45",
-    "imgURL": "",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftra45.png?alt=media&token=5147cd92-054d-4e3f-bed7-1a1115293e4e",
     "streamURL": "https://ss4.domint.net:3008/tra_str/canal45/chunklist_w371400831.m3u8"
   },
   {
@@ -83,14 +83,14 @@
     "id": 15,
     "title": "TNI 51",
     "canal": "51",
-    "imgURL": "",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftni51.png?alt=media&token=b17a1022-7119-47dd-88a2-047fe66db337",
     "streamURL": "https://ss8.domint.net:3126/tni_str/tni51/chunklist_w652317762.m3u8"
   },
   {
     "id": 16,
     "title": "Super TV 55",
     "canal": "55",
-    "imgURL": "",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fsupertv55.png?alt=media&token=f1f47492-3d36-4a41-9bf0-b4ce0fe8a430",
     "streamURL": "https://ss8.domint.net:3128/stv_str/tv55/chunklist_w507343934.m3u8"
   },
   {
