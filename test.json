@@ -105,7 +105,7 @@
     "title": "Telemicro",
     "canal": "5",
     "imgURL": "",
-    "streamURL": "http://51.89.152.28/hls/tmicro.m3u8"
+    "streamURL": "http://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8"
   },
       {
     "id": 17,
