@@ -113,6 +113,20 @@
     "canal": "19",
     "imgURL": "",
     "streamURL": "https://playback2.akamaized.net/streams/27035275_8371710_df45abbd09ff1ca41c845b2e4bffc40e_1/exp=1594835340~acl=%2f*~data=hdntl~hmac=0af450bb360f69cde7f5fec8ebde1727c86a9a46b9e4f72366160dade4322035/media/27035275_8371710_df45abbd09ff1ca41c845b2e4bffc40e_1@2128000pb.m3u8"
+  },
+  {
+    "id": 18,
+    "title": "Microvision",
+    "canal": "10",
+    "imgURL": "",
+    "streamURL": "http://190.103.183.24:1935/live/MicroHD/chunklist_w1405776399.m3u8"
+  },
+  {
+    "id": 18,
+    "title": "Romana TV",
+    "canal": "42",
+    "imgURL": "",
+    "streamURL": "http://190.103.183.24:1935/live/MicroHD/chunklist_w2009215683.m3u8"
   }
   
 ]
