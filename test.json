@@ -99,5 +99,26 @@
     "canal": "63",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
     "streamURL": "https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w1419046045.m3u8"
+  },
+    {
+    "id": 17,
+    "title": "Telemicro",
+    "canal": "5",
+    "imgURL": "",
+    "streamURL": "http://51.89.152.28/hls/tmicro.m3u8"
+  },
+      {
+    "id": 17,
+    "title": "CerTV",
+    "canal": "4",
+    "imgURL": "",
+    "streamURL": "http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8"
+  },
+        {
+    "id": 17,
+    "title": "Antena Latina",
+    "canal": "7",
+    "imgURL": "",
+    "streamURL": "http://51.89.152.28:80/hls/alatina.m3u8"
   }
 ]
