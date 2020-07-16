@@ -160,6 +160,48 @@
     "canal": "63",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
     "streamURL": "https://5d4a00b8a0738.streamlock.net/8068/8068/chunklist_w1724510059.m3u8"
+  }  ,
+  {
+    "id": 17,
+    "title": "readytv",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist_w117536873.m3u8"
+  }  ,
+  {
+    "id": 17,
+    "title": "vallevision",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w912298558.m3u8"
+  }  ,
+  {
+    "id": 17,
+    "title": "Tvcotui",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "http://caribeteve.ddns.net:1935/tvcotui/tvcotui/chunklist_w961665623.m3u8"
+  }  ,
+  {
+    "id": 17,
+    "title": "TV 10 San Juan",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "https://5d79ae45bc63b.streamlock.net/8090/8090/chunklist_w647103128.m3u8"
+  }  ,
+  {
+    "id": 17,
+    "title": "X-tremo Chanel",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "https://ss3.domint.net:3118/xtr_str/xtremo/chunklist_w200768432.m3u8"
+  }  ,
+  {
+    "id": 17,
+    "title": "Carivision",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w45904566.m3u8"
   }  
 
 
