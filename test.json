@@ -113,21 +113,6 @@
     "canal": "63",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
     "streamURL": "https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8"
-  } , 
-  {
-    "id": 17,
-    "title": "urbancristv",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8"
-  }  ,
-
-  {
-    "id": 17,
-    "title": "urbancristv",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8"
   }  ,
   {
     "id": 17,
@@ -187,20 +172,6 @@
   }  ,
   {
     "id": 17,
-    "title": "readytv",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8"
-  }  ,
-  {
-    "id": 17,
-    "title": "readytv",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8"
-  }  ,
-  {
-    "id": 17,
     "title": "boreal",
     "canal": "63",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
@@ -243,24 +214,54 @@
   }  ,
   {
     "id": 17,
-    "title": "cinevision19",
+    "title": "carivision",
     "canal": "63",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "http://cinevision01.streamprolive.com/hls/live.m3u8"
+    "streamURL": "http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8"
   }  ,
   {
     "id": 17,
-    "title": "cinevision19",
+    "title": "microvision",
     "canal": "63",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "http://cinevision01.streamprolive.com/hls/live.m3u8"
+    "streamURL": "http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8"
   }  ,
   {
     "id": 17,
-    "title": "cinevision19",
+    "title": "adoramtv",
     "canal": "63",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "http://cinevision01.streamprolive.com/hls/live.m3u8"
+    "streamURL": "http://gmsiptv.ddns.net:8080/hls/adoramtv.m3u8"
+  } ,
+  {
+    "id": 17,
+    "title": "otrabandatv",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "https://cdn4.hostlagarto.com:8081/otrabandatv/index.m3u8"
+  } ,
+  {
+    "id": 17,
+    "title": "phtv",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8"
+  }  ,
+  {
+    "id": 17,
+    "title": "cotubanama",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "https://cdn4.hostlagarto.com:8081/cotubanamatv/index.m3u8"
+  } ,
+  {
+    "id": 17,
+    "title": "cotubanama",
+    "canal": "63",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "https://5d4a00b8a0738.streamlock.net/8068/8068/chunklist_w1724510059.m3u8"
   }  
+
+
 ]
 
