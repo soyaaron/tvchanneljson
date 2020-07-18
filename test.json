@@ -21,20 +21,7 @@
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fpuntacanatv.png?alt=media&token=3e389ac6-e3ab-44de-9440-cf31e1c0913b",
     "streamURL": "https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8"
   },
-  {
-    "id": 17,
-    "title": "Bellavision",
-    "canal": "8",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fbellavision.png?alt=media&token=ba9881c4-801e-4192-87dc-01da4a299ff5",
-    "streamURL": "  https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8"
-  },
-  {
-    "id": 17,
-    "title": "TV 10 San Juan",
-    "canal": "10",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftv10sanjuan.png?alt=media&token=f66bb531-6db8-4239-a1a3-eb80886e7076",
-    "streamURL": "https://5d79ae45bc63b.streamlock.net/8090/8090/chunklist_w647103128.m3u8"
-  },
+
   {
     "id": 3,
     "title": "Telesistema",
@@ -171,5 +158,19 @@
     "canal": "",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
     "streamURL": "https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8"
+  },
+  {
+    "id": 17,
+    "title": "Bellavision",
+    "canal": "8",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fbellavision.png?alt=media&token=ba9881c4-801e-4192-87dc-01da4a299ff5",
+    "streamURL": "  https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": 17,
+    "title": "TV 10 San Juan",
+    "canal": "10",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftv10sanjuan.png?alt=media&token=f66bb531-6db8-4239-a1a3-eb80886e7076",
+    "streamURL": "https://5d79ae45bc63b.streamlock.net/8090/8090/chunklist_w647103128.m3u8"
   }
 ]
