@@ -21,7 +21,20 @@
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fpuntacanatv.png?alt=media&token=3e389ac6-e3ab-44de-9440-cf31e1c0913b",
     "streamURL": "https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8"
   },
-
+  {
+    "id": 17,
+    "title": "Bellavision",
+    "canal": "8",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fbellavision.png?alt=media&token=ba9881c4-801e-4192-87dc-01da4a299ff5",
+    "streamURL": "  https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": 17,
+    "title": "TV 10 San Juan",
+    "canal": "10",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftv10sanjuan.png?alt=media&token=f66bb531-6db8-4239-a1a3-eb80886e7076",
+    "streamURL": "https://5d79ae45bc63b.streamlock.net/8090/8090/chunklist_w647103128.m3u8"
+  },
   {
     "id": 3,
     "title": "Telesistema",
@@ -36,6 +49,20 @@
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelefuturo23.png?alt=media&token=c8ea3a31-29ad-4c8e-9a8e-24a7fa830843",
     "streamURL": "https://ss8.domint.net:3118/tf_str/futu/chunklist_w814674442.m3u8"
   },
+  {
+    "id": 17,
+    "title": "Hilando Fino TV",
+    "canal": "22",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fhilandofino.png?alt=media&token=17319f9a-a4f1-4f25-8794-39263391fb2d",
+    "streamURL": "https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1079087093_b2628000.m3u8"
+  },
+  {
+    "id": 17,
+    "title": "Xtremo Vision",
+    "canal": "22",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "streamURL": "https://ss3.domint.net:3118/xtr_str/xtremo/chunklist_w200768432.m3u8"
+  },
 
   {
     "id": 5,
@@ -43,6 +70,13 @@
     "canal": "25",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcanal25.png?alt=media&token=02f549d1-1c4f-4ecf-afe7-ff6d17fb22ba",
     "streamURL": "https://ss3.domint.net:3122/c25_str/canal25/chunklist_w1616327302.m3u8"
+  },
+  {
+    "id": 17,
+    "title": "Carivision",
+    "canal": "26",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcarivision.png?alt=media&token=3c86bb51-ba98-40aa-8605-ca45345d5b2c",
+    "streamURL": "https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w45904566.m3u8"
   },
   {
     "id": 6,
@@ -65,6 +99,29 @@
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fsportsvision35.png?alt=media&token=d12cd03e-b5f1-4232-8f68-94d1093bd646",
     "streamURL": "https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/chunklist_w1686255597.m3u8"
   },
+
+  {
+    "id": 17,
+    "title": "PHTV",
+    "canal": "34",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fphtv.png?alt=media&token=ff5e6231-a581-4f1d-868a-d6c7e7c4df7a",
+    "streamURL": "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8"
+  },
+  {
+    "id": 17,
+    "title": "CotubanamaTV",
+    "canal": "36",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcotubanama.png?alt=media&token=43664cb3-87e6-4849-a063-f0f4696a9cf4",
+    "streamURL": "https://cdn4.hostlagarto.com:8081/cotubanamatv/index.m3u8"
+  },
+  {
+    "id": 17,
+    "title": "entelevision",
+    "canal": "38",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fentelevision.png?alt=media&token=ba4b28c1-ca53-477c-a24e-f0bec419bf64",
+    "streamURL": "https://5d4a00b8a0738.streamlock.net/8068/8068/chunklist_w1724510059.m3u8"
+  },
+
   {
     "id": 13,
     "title": "Teleradio América (TRA)",
@@ -95,115 +152,24 @@
   },
   {
     "id": 17,
+    "title": "Cielo TV",
+    "canal": "56",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcielotv.png?alt=media&token=36c1ff74-8012-43a3-8d7e-67246aa5725c",
+    "streamURL": "https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/playlist.m3u8"
+  },
+  {
+    "id": 17,
     "title": "Digital Vision 63",
     "canal": "63",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
     "streamURL": "https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w1419046045.m3u8"
-  } ,
-  
+  },
+
   {
     "id": 17,
-    "title": "urbancristv",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
+    "title": "UrbancrisTV",
+    "canal": "",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
     "streamURL": "https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8"
-  }  ,
-
-  {
-    "id": 17,
-    "title": "bellavidion",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "  https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8"
-  }  ,
-
-  {
-    "id": 17,
-    "title": "boreal",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://5b38ce71f1f00.streamlock.net/8180/8180/chunklist_w557576109.m3u8"
-  }  ,
-
-  {
-    "id": 17,
-    "title": "cielotv",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/playlist.m3u8"
-  }  ,
-  {
-    "id": 17,
-    "title": "hilandofino",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1079087093_b2628000.m3u8"
-  }  ,
-
-  {
-    "id": 17,
-    "title": "phtv",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8"
-  }  ,
-  {
-    "id": 17,
-    "title": "cotubanama",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://cdn4.hostlagarto.com:8081/cotubanamatv/index.m3u8"
-  } ,
-  {
-    "id": 17,
-    "title": "entelevision",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://5d4a00b8a0738.streamlock.net/8068/8068/chunklist_w1724510059.m3u8"
-  }  ,
-  {
-    "id": 17,
-    "title": "readytv",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist_w117536873.m3u8"
-  }  ,
-  {
-    "id": 17,
-    "title": "vallevision",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w912298558.m3u8"
-  }  ,
-  {
-    "id": 17,
-    "title": "Tvcotui",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "http://caribeteve.ddns.net:1935/tvcotui/tvcotui/chunklist_w961665623.m3u8"
-  }  ,
-  {
-    "id": 17,
-    "title": "TV 10 San Juan",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://5d79ae45bc63b.streamlock.net/8090/8090/chunklist_w647103128.m3u8"
-  }  ,
-  {
-    "id": 17,
-    "title": "X-tremo Chanel",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://ss3.domint.net:3118/xtr_str/xtremo/chunklist_w200768432.m3u8"
-  }  ,
-  {
-    "id": 17,
-    "title": "Carivision",
-    "canal": "63",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fdigitalvision63.png?alt=media&token=d8d8bf98-6d08-416e-925d-8c3b4a904a8c",
-    "streamURL": "https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w45904566.m3u8"
-  }  
-
-
+  }
 ]
-
