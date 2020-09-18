@@ -11,7 +11,7 @@
     "title": "Color Vision",
     "canal": "9",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcolorvision9.png?alt=media&token=fd99f91e-55a3-49e7-9205-63f7f3e8732f",
-    "streamURL": "https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYxJipzjPV1bcGra0CfKTWhc)/dm/3/x7gy059/d/live-2.m3u8"
+    "streamURL": "https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY6ADe4YQgKLHnE0TZRppIvI)/dm/3/x7gy059/d/live-3.m3u8"
   },
 
   {
@@ -28,13 +28,7 @@
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fbellavision.png?alt=media&token=ba9881c4-801e-4192-87dc-01da4a299ff5",
     "streamURL": "  https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8"
   },
-  {
-    "id": 17,
-    "title": "TV 10 San Juan",
-    "canal": "10",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftv10sanjuan.png?alt=media&token=f66bb531-6db8-4239-a1a3-eb80886e7076",
-    "streamURL": "https://5d79ae45bc63b.streamlock.net/8090/8090/chunklist_w647103128.m3u8"
-  },
+
   {
     "id": 3,
     "title": "Telesistema",
@@ -116,10 +110,10 @@
   },
   {
     "id": 17,
-    "title": "entelevision",
+    "title": "Entelevision",
     "canal": "38",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fentelevision.png?alt=media&token=ba4b28c1-ca53-477c-a24e-f0bec419bf64",
-    "streamURL": "https://5d4a00b8a0738.streamlock.net/8068/8068/chunklist_w1724510059.m3u8"
+    "streamURL": "https://panel.livetvvideo.net:1936/8068/8068/chunklist_w2018290290.m3u8"
   },
 
   {
@@ -134,7 +128,7 @@
     "title": "Ame 47",
     "canal": "47",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fame47.png?alt=media&token=18bc23e7-d79c-483e-bba7-dd8cd001d797",
-    "streamURL": "https://ss6.domint.net:3028/ame_str/amecanal47/chunklist_w1595613884.m3u8"
+    "streamURL": "https://ss6.domint.net:3028/ame_str/amecanal47/chunklist_w1630740162.m3u8"
   },
   {
     "id": 15,
