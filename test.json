@@ -165,12 +165,5 @@
     "canal": "",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
     "streamURL": "https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8"
-  },
-  {
-    "id": 17,
-    "title": "Antena 7",
-    "canal": "7",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
-    "streamURL": "https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1600630553~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=57b7004341fd675bdd923a5602834f16826c575593f9c0437b794bb092bc4417"
   }
 ]
