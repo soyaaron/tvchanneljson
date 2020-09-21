@@ -20,7 +20,7 @@
     "title": "Telemicro (Pronto)",
     "canal": "5",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelemicro%205.png?alt=media&token=179fde1d-a7eb-4e49-9985-b0c94d0ccfaf",
-    "streamURL": "<iframe id=\"ls_embed_1600650225\" src=\"https://livestream.com/accounts/28126860/events/8825282/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe> <h3>*Estamos trabajando en brindar este canal en pantalla completa </h3>",
+    "streamURL": "<iframe id=\"ls_embed_1600650225\" src=\"https://livestream.com/accounts/28126860/events/8825282/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe> <h6>*Estamos trabajando en brindar este canal en pantalla completa </h6>",
     "iframe": true
   },
   {
