@@ -8,6 +8,22 @@
     "iframe": false
   },
   {
+    "id": 4,
+    "title": "Certv (Pronto)",
+    "canal": "4",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
+    "streamURL": "<iframe id=\"ls_embed_1600641866\" src=\"https://livestream.com/accounts/27035275/events/8371710/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>",
+    "iframe": true
+  },
+  {
+    "id": 5,
+    "title": "Telemicro (Pronto)",
+    "canal": "5",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
+    "streamURL": "<iframe id=\"ls_embed_1600650225\" src=\"https://livestream.com/accounts/28126860/events/8825282/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>",
+    "iframe": true
+  },
+  {
     "id": 2,
     "title": "Color Vision",
     "canal": "9",
@@ -36,6 +52,13 @@
     "canal": "11",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelesistemas11.png?alt=media&token=03d9e26f-d71b-4b4a-a7d9-553f7f0aa746",
     "streamURL": "https://ss3.domint.net:3114/t11_str/telesistema/chunklist_w982109702.m3u8"
+  },
+  {
+    "id": 3,
+    "title": "Telecentro (Pronto)",
+    "canal": "13",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelesistemas11.png?alt=media&token=03d9e26f-d71b-4b4a-a7d9-553f7f0aa746",
+    "streamURL": "<iframe id=\"ls_embed_1600650346\" src=\"https://livestream.com/accounts/28126860/events/8555433/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" allowfullscreen> </iframe>"
   },
   {
     "id": 4,
@@ -166,13 +189,6 @@
     "canal": "",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
     "streamURL": "https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8"
-  },
-  {
-    "id": 17,
-    "title": "prueba",
-    "canal": "prueba",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
-    "streamURL": "<iframe id=\"ls_embed_1600641866\" src=\"https://livestream.com/accounts/27035275/events/8371710/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>",
-    "iframe": true
   }
+
 ]
