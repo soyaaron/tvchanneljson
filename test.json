@@ -11,7 +11,7 @@
     "id": 4,
     "title": "Certv (Pronto)",
     "canal": "4",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcertv4.png?alt=media&token=c6eedc58-3538-4c47-8da1-61913e3630e6",
     "streamURL": "<iframe id=\"ls_embed_1600641866\" src=\"https://livestream.com/accounts/27035275/events/8371710/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>",
     "iframe": true
   },
@@ -19,8 +19,8 @@
     "id": 5,
     "title": "Telemicro (Pronto)",
     "canal": "5",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
-    "streamURL": "<iframe id=\"ls_embed_1600650225\" src=\"https://livestream.com/accounts/28126860/events/8825282/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelemicro%205.png?alt=media&token=179fde1d-a7eb-4e49-9985-b0c94d0ccfaf",
+    "streamURL": "<iframe id=\"ls_embed_1600650225\" src=\"https://livestream.com/accounts/28126860/events/8825282/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe> <h3>*Estamos trabajando en brindar este canal en pantalla completa </h3>",
     "iframe": true
   },
   {
@@ -57,7 +57,7 @@
     "id": 3,
     "title": "Telecentro (Pronto)",
     "canal": "13",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelesistemas11.png?alt=media&token=03d9e26f-d71b-4b4a-a7d9-553f7f0aa746",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelecentro13.png?alt=media&token=4379e6a8-cd40-4883-91cf-dfb9f61799da",
     "streamURL": "<iframe id=\"ls_embed_1600650346\" src=\"https://livestream.com/accounts/28126860/events/8555433/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" allowfullscreen> </iframe>"
   },
   {
