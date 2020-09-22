@@ -58,7 +58,8 @@
     "title": "Telecentro (Pronto)",
     "canal": "13",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelecentro13.png?alt=media&token=4379e6a8-cd40-4883-91cf-dfb9f61799da",
-    "streamURL": "<iframe id=\"ls_embed_1600650346\" src=\"https://livestream.com/accounts/28126860/events/8555433/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" allowfullscreen> </iframe>  "
+    "streamURL": "<iframe id=\"ls_embed_1600738572\" src=\"https://livestream.com/accounts/28126860/events/8555433/player?width=960&height=540&enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false\" width=\"960\" height=\"540\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>",
+    "iframe":true
   },
   {
     "id": 4,
