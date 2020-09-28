@@ -1,0 +1,47 @@
+[
+    {
+      "id": "televen",
+      "title": "Televen",
+      "canal": "2",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fteleantillas2.png?alt=media&token=cd14f2fb-974f-43e9-bd0c-1a0bbd1e4eca",
+      "streamURL": "http://95.216.150.122:1935/televenweb/televenweb/chunklist_w613202977.m3u8",
+      "iframe": false
+    },
+    {
+        "id": "canalI",
+        "title": "Canal i",
+        "canal": "2",
+        "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fteleantillas2.png?alt=media&token=cd14f2fb-974f-43e9-bd0c-1a0bbd1e4eca",
+        "streamURL": "https://vcp.myplaytv.com/canali/canali/chunklist_w2058130893.m3u8",
+        "iframe": false
+      },
+      {
+        "id": "vtv",
+        "title": "Venezolana de Televisión",
+        "canal": "2",
+        "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fteleantillas2.png?alt=media&token=cd14f2fb-974f-43e9-bd0c-1a0bbd1e4eca",
+        "streamURL": "https://livestream.streamingconnect.com/hls/vtvweb.m3u8"
+      },
+      {
+        "id": "tves",
+        "title": "TVes",
+        "canal": "2",
+        "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fteleantillas2.png?alt=media&token=cd14f2fb-974f-43e9-bd0c-1a0bbd1e4eca",
+        "streamURL": "https://livestream.streamingconnect.com/hls/tves.m3u8"
+      },
+      {
+        "id": "telesur",
+        "title": "Tele Sur",
+        "canal": "2",
+        "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fteleantillas2.png?alt=media&token=cd14f2fb-974f-43e9-bd0c-1a0bbd1e4eca",
+        "streamURL": "https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8"
+      },
+    {
+      "id": 4,
+      "title": "Certv (Pronto)",
+      "canal": "4",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcertv4.png?alt=media&token=c6eedc58-3538-4c47-8da1-61913e3630e6",
+      "streamURL": "<iframe id=\"ls_embed_1600641866\" src=\"https://livestream.com/accounts/27035275/events/8371710/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>  <h5>Estamos trabajando para brindar este canal en pantalla completa</h5> ",
+      "iframe": true
+    }
+]
