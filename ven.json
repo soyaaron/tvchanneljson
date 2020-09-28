@@ -38,10 +38,10 @@
       },
     {
       "id": 4,
-      "title": "Certv (Pronto)",
+      "title": "Globo Vision",
       "canal": "4",
       "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcertv4.png?alt=media&token=c6eedc58-3538-4c47-8da1-61913e3630e6",
-      "streamURL": "<iframe id=\"ls_embed_1600641866\" src=\"https://livestream.com/accounts/27035275/events/8371710/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>  <h5>Estamos trabajando para brindar este canal en pantalla completa</h5> ",
+      "streamURL": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gMH9fcWENyk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>  <h5>Estamos trabajando para brindar este canal en pantalla completa</h5> ",
       "iframe": true
     }
 ]
