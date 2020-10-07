@@ -23,13 +23,7 @@
     "streamURL": "<iframe id=\"ls_embed_1600650225\" src=\"https://livestream.com/accounts/28126860/events/8825282/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>  <h5>Estamos trabajando para brindar este canal en pantalla completa</h5>",
     "iframe": true
   },
-  {
-    "id": 2,
-    "title": "Color Vision",
-    "canal": "9",
-    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcolorvision9.png?alt=media&token=fd99f91e-55a3-49e7-9205-63f7f3e8732f",
-    "streamURL": "https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY4oSvzMd0W_T9bBcoldhBHo)/dm/3/x7gy059/d/live-3.m3u8"
-  },
+
 
   {
     "id": 18,
@@ -44,6 +38,14 @@
     "canal": "8",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fbellavision.png?alt=media&token=ba9881c4-801e-4192-87dc-01da4a299ff5",
     "streamURL": "  https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8"
+  },
+
+  {
+    "id": 2,
+    "title": "Color Vision",
+    "canal": "9",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcolorvision9.png?alt=media&token=fd99f91e-55a3-49e7-9205-63f7f3e8732f",
+    "streamURL": "https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY7BzOhCrlfye1Bs4lUrThfw)/dm/3/x7gy059/d/live-3.m3u8"
   },
 
   {
