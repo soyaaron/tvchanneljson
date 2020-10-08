@@ -57,6 +57,13 @@
       "canal": "2",
       "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fteleantillas2.png?alt=media&token=cd14f2fb-974f-43e9-bd0c-1a0bbd1e4eca",
       "streamURL": "https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8"
+    },
+    {
+      "id": 4,
+      "title": "Telefuturo",
+      "canal": "23",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Ftelefuturo23.png?alt=media&token=c8ea3a31-29ad-4c8e-9a8e-24a7fa830843",
+      "streamURL": "https://ss8.domint.net:3118/tf_str/futu/chunklist_w814674442.m3u8"
     }
     
 ]
