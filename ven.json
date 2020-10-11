@@ -13,7 +13,6 @@
         "canal": "2",
         "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fteleantillas2.png?alt=media&token=cd14f2fb-974f-43e9-bd0c-1a0bbd1e4eca",
         "streamURL": "https://vcp.myplaytv.com/canali/canali/chunklist_w2058130893.m3u8",
-        "iframe": false
       },
       {
         "id": 2,
@@ -41,9 +40,8 @@
       "title": "Globo Vision",
       "canal": "4",
       "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcertv4.png?alt=media&token=c6eedc58-3538-4c47-8da1-61913e3630e6",
-      "streamURL": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gMH9fcWENyk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>  <h5>Estamos trabajando para brindar este canal en pantalla completa</h5> ",
-      "iframe": true,
-      "streamType": 1
+      "streamURL": "vCKm891qJus",
+      "streamType": 2
     },
     {
       "id": 2,
