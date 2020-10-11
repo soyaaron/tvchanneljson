@@ -42,7 +42,8 @@
       "canal": "4",
       "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fcertv4.png?alt=media&token=c6eedc58-3538-4c47-8da1-61913e3630e6",
       "streamURL": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gMH9fcWENyk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>  <h5>Estamos trabajando para brindar este canal en pantalla completa</h5> ",
-      "iframe": true
+      "iframe": true,
+      "streamType": 1
     },
     {
       "id": 2,
