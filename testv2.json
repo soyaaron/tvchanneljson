@@ -55,7 +55,7 @@
     "title": "Bellavision",
     "canal": "8",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fbellavision.png?alt=media&token=ba9881c4-801e-4192-87dc-01da4a299ff5",
-    "streamURL": "  https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8"
+    "streamURL": "https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8"
   },
 
   {
