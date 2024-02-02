@@ -4,11 +4,11 @@
     "title": "streamtype2",
     "canal": "",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
-    "streamURL": "https://www.dailymotion.com/cdn/live/video/x80ac48.m3u8?sec=f9DoJOQQe2yQ2xutPY9XhR8GhbM3VW_p4uQWSb_gqpvS9B5hXHL3ak0TZGp9mFdj&dmTs=754315&dmV1st=352b4a97-2022-4b64-a31b-0eae568279c7",
+    "streamURL": "https://live-c.cf.dmcdn.net/sec2(qFFV3W6x613317l_xj0cG96893bLvQPScN95PxzwBakWez9Zcf-1LO5U0s2pYxLuagHdy4yVYbn489PPfvocG_TPV0eb4AyXCb7R20yiG3E)/dm/3/x80ac48/s/live-0.m3u8",
     "streamType":2
   },
   {
-    "id": 17,
+    "id": 9999,
     "title": "streamtype3",
     "canal": "",
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
