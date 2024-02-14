@@ -1,4 +1,27 @@
 [
+    {
+    "id": 17,
+    "title": "puntacana test1",
+    "canal": "",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
+    "streamURL": "https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8",
+  },
+  {
+    "id": 9999,
+    "title": "test 2",
+    "canal": "",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Furbancristv.png?alt=media&token=4db7eef9-e276-4d11-8b6d-9fe5913d749d",
+    "streamURL": "https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8",
+    "streamType":3
+  },
+  {
+    "id": 1,
+    "title": "test 3",
+    "canal": "2",
+    "imgURL": "https://firebasestorage.googleapis.com/v0/b/tvapp-dc601.appspot.com/o/Logos%2Fteleantillas2.png?alt=media&token=cd14f2fb-974f-43e9-bd0c-1a0bbd1e4eca",
+    "streamURL": "https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w1165795089.m3u8",
+    "iframe": false
+  },
   {
     "id": 1,
     "title": "Teleantillas",
